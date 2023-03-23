@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "835312410193",
+    "project_id": "caloriewell365push",
+    "storage_bucket": "caloriewell365push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835312410193:android:b068b29d1771ec8442a270",
+        "android_client_info": {
+          "package_name": "com.caloriewell365.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835312410193-eilke9d26uq9m7fkhma3pvepq11aicqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.caloriewell365.app",
+            "certificate_hash": "41441c062816c3c514d0f0b7d87dddc2beae9c35"
+          }
+        },
+        {
+          "client_id": "835312410193-3r5t787i8sbf03ap64do2g0bnl9ldic0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiyKyf9YwYZGYf31YkV-nLzT2uLLjesMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835312410193-3r5t787i8sbf03ap64do2g0bnl9ldic0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
